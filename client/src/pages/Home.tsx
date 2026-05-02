@@ -119,6 +119,13 @@ export default function Home() {
     },
 
     {
+      name: "Felix Xing",
+      title: "Chief Technology Officer",
+      bio: "Serial startup CTO with 15 years architecting fintech and enterprise systems across payments, blockchain, quant trading, banking integrations, and AI. Deep experience in building engineering teams and technical infrastructure from the ground up. Led solution architect team at Advance.ai, driving integrations with OVO, Tokopedia, and SCB, and designed the unified QR payment system for Krungsri Bank in Thailand.",
+      color: "from-primary to-accent",
+      image: "/images/team-felix.png"
+    },
+    {
       name: "Paul Kuo",
       title: "Legal Advisor",
       bio: "20+ years of global legal experience across fintech, payments, capital markets, and cross-border transactions.",
@@ -127,7 +134,7 @@ export default function Home() {
     },
     {
       name: "Thomas Teo",
-      title: "Chief Technology Officer",
+      title: "Chief Information Officer",
       bio: "Served as CTO at Zheng He Capital Management and CIO at Banking Computer Services. Led technology operations at United Overseas Bank as SVP and managed banking applications at Julius Baer across 6+ years.",
       color: "from-accent to-secondary",
       image: "/images/team-thomas.png"
