@@ -111,13 +111,6 @@ export default function Home() {
       image: "/images/team-randy.png"
     },
     {
-      name: "David Lee",
-      title: "Board Director",
-      bio: "Over 35 years of senior leadership experience in global payments, including key roles at Visa Inc. such as CFO, COO (Asia Pacific), and Regional President. Former Special Advisor to China UnionPay and Director at UnionPay International. Independent Non-Executive Director of Maybank Singapore Ltd.",
-      color: "from-primary to-accent",
-      image: "/images/team-david.png"
-    },
-    {
       name: "Johnny Chee",
       title: "Chief Strategy Officer, Board Director",
       bio: "20+ years of experience across payments, banking, hospitality, and commercial real estate. Leads hospitality investments and merging operating insight with structured deal execution across the sector.",
